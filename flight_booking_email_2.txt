@@ -1,9 +1,0 @@
-Confirmacion de Reserva - Fly Away Travel
-===========================================
-
-Nombres:          John Doe
-Numero de vuelo:  AA448
-Aerolinea:        American Airlines
-Fecha de salida:  2026-05-15T12:00:00
-Fecha de llegada: 2026-05-15T19:00:00
-Fecha de reserva: 2026-05-12T11:44:03.6159741
